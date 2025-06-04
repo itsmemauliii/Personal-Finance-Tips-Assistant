@@ -32,6 +32,6 @@ This is an AI-powered **Personal Finance Tips Assistant** created using **Amazon
 
 ## 📬 Contact
 
-Made by **[Your Name]**  
+Made by **Mauli Patel**  
 LinkedIn: https://linkedin.com/in/itsmemauliii
 GitHub: https://github.com/itsmemauliii

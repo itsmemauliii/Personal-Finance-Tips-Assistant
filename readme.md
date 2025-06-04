@@ -26,8 +26,6 @@ This is an AI-powered **Personal Finance Tips Assistant** created using **Amazon
 
 ![Demo Screenshot](./screenshots/finance_assistant_demo.png)
 
-🎥 Watch the full screen recording in the `video_demo` folder.
-
 ---
 
 ## 📬 Contact
